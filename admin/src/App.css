@@ -1,0 +1,94 @@
+.mb-3.create-merchant {
+    float: right;
+  }
+  .merchentspromotion-logos {
+    max-width: 50px;
+    max-height: 50px;
+  }  
+  .col-12.merchant-profile-div {
+    display: flex;
+  } 
+  .card-title.profile-name {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .merchant-profile-image-div {
+    width: 150px; /* Adjust the width and height to your desired size */
+    height: 150px;
+    border-radius: 50%; /* This will create the circular shape */
+    overflow: hidden; /* Hide any part of the image outside the circle */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    margin: auto;
+    }
+    .card-img-top.merchant-profile-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  .list-group-item.group-item-profile-page {
+    border: unset;
+  }
+  .card-title.raitng\&reviewprofile {
+    padding: 15px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .col-12.showratingdiv {
+    padding: 15px;
+  }
+  .col-12.refferal-amount-save {
+    padding-top: 25px;
+    text-align: right;
+  }
+  .col-12.data-view {
+    padding: 25px;
+  }
+  .custom-search-data {
+    width: auto;
+  }
+  .discription-manage-discount {
+    width: 50%;
+  }
+  .show-error-login {
+    color: red;
+  }
+  .form-select.form-select-sm.mb-3.sort-by {
+    width: auto;
+  }
+  .btn.btn-primary.choose-but.date-filter {
+    height: 10%;
+  }
+  .col-6.d-flex.gap-2.mt-3.filter {
+    height: 10%;
+  } 
+  .card-img-top.promotion-image {
+    width: 100px;
+    height: 100px;
+    display: inline;
+  }
+  /* Facebook color */
+.facebook-icon {
+  color: #1877f2; /* Facebook blue color */
+}
+
+/* Instagram color */
+.instagram-icon {
+  color: #e4405f; /* Instagram pink color */
+}
+
+/* TikTok color */
+.tiktok-icon {
+  color: #000000; /* TikTok black color */
+}
+
+/* YouTube color */
+.youtube-icon {
+  color: #ff0000; /* YouTube red color */
+}
+.addmoneybtn{
+  margin-top: 31px !important;
+  width: 50%;
+}

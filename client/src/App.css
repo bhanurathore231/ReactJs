@@ -1,0 +1,1661 @@
+svg.nav-icon.wallet-icon {
+  width: 10%;
+}
+.offerclass {
+	position: relative;
+	left: 18px;
+}
+.col-12.profile-img-div {
+  margin: auto;
+}
+.card-img-top.Promotion-img {
+  width: 100px;
+  height: 100px;
+  align-content: center;
+  display: flex;
+}
+.card-img-top.profile-image{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin: auto;
+  align-content: center;
+  display: flex;
+  border-radius: 150px;
+}
+.btn.btn-primary.cbuttonclass {
+  font-size: 9px;
+  margin: 0px auto;
+  color: aliceblue;
+  text-shadow: 1px 0px aliceblue;
+  font-weight: bold;
+  /* background: #d87032; */
+  border-radius: 27px;
+  position: relative;
+  right: 5px;
+  top: 3px;
+  width: 107px;
+  letter-spacing: 1px;
+  padding: 0px;
+  height: 27px;
+}
+.icon.icon-custom-size.referal-logo:hover {
+  background-color: #0d6efdb0;
+  transition: 0.7s;
+}
+
+.review-submit-div {
+  padding: 15px;
+  text-align: center;
+}
+
+.cus-icon {
+  display: flex;
+}
+
+.merchentspromotion-logos {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.rating-div {
+  padding: 15px;
+}
+
+.col-3.refferal-popup-logo {
+  text-align: center;
+}
+
+.branchpindiv {
+  display: flex;
+}
+
+.merchantslinks {
+  color: black;
+  text-decoration: unset;
+}
+
+.list-group-flush>.list-group-item {
+  border-width: 0 0 var(--cui-list-group-border-width);
+
+}
+
+.card-title.profile-name-client-heding {
+  text-align: center;
+  position: relative;
+  bottom: 46px;
+  font-weight: 600;
+}
+
+.list-group.list-group-flush.body-part {
+  text-align: center;
+margin: 30px 0px;
+}
+
+.current-promo-profile-page {
+  text-align: right;
+  right: 103px;
+  position: relative;
+  bottom: 23px;
+}
+
+.client-count-profile-page {
+  text-align: start;
+  position: relative;
+  margin: 10px auto;
+  left: 0px;
+}
+
+.list-group-item.group-item-profile-page {
+  text-align: left;
+  padding: 0px;
+  margin: 0px 0px 0px 43px;
+}
+
+
+
+.client-count-profile-page-background-updateprofile {
+  background: aqua;
+  text-align: center;
+  position: relative;
+  top: 11px;
+  cursor: pointer;
+  padding: 10px;
+  right: 27px;
+  border-radius: 29px;
+}
+
+.col.body-item-div-item {
+  position: relative;
+  left: 36px;
+}
+
+.align-items-center {
+  display: flex;
+}
+
+.dropdown-item.profile-decore a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.label-amount {
+  padding: 0px inherit;
+  position: relative;
+  left: 27px;
+}
+
+.btn.btn-primary.custom-button {
+  text-shadow: 0px 0px white;
+  font-weight: 700;
+}
+
+.list-group.list-group-flush.body-part {
+  position: relative;
+  right: 21px;
+  margin: 30px 0px;
+}
+
+.btn.btn-primary.addamount-class {
+  text-shadow: 0px 0px white;
+  position: relative;
+  bottom: 10px;
+  left: 40px;
+  font-weight: 600;
+  width: 75%;
+  padding: 0px 0px 3px 0px;
+}
+
+#amount-labelinput {
+  margin: 4px 36px;
+  width: 50%;
+}
+
+.btn.btn-primary.save-classcustom {
+
+  text-shadow: 0px 0px white;
+  font-weight: 700;
+}
+
+.common-customdiv-class {
+  display: inline-block;
+  width: 50%;
+}
+
+.card-text.proname {
+  text-align: center;
+}
+
+.btn.btn-primary.btn-sm.custom-button-reviewclass {
+  text-shadow: 0px 0px white;
+  font-weight: 600;
+  width: 70%;
+}
+
+.btn.btn-primary.rating-save-btn-custom {
+  text-shadow: 0px 0px white;
+  font-weight: 600;
+}
+
+.mpromotionnext-custonm {
+  background-color: blue;
+  color: white;
+  text-shadow: 0px 0px white;
+  font-weight: 700;
+  float: right;
+}
+.offerclass {
+	position: relative;
+	left: 18px;
+}
+
+.btn.btn-primary.cbuttonclass {
+  font-size: 9px;
+  margin: 0px auto;
+  color: aliceblue;
+  text-shadow: 1px 0px aliceblue;
+  font-weight: bold;
+  /* background: #d87032; */
+  border-radius: 27px;
+  position: relative;
+  right: 5px;
+  top: 3px;
+  width: 107px;
+  letter-spacing: 1px;
+  padding: 0px;
+  height: 27px;
+}
+.form-control.form-control-sm.custom-search-data-custom {
+  width: 100%;
+  margin: auto;
+}
+
+.col.client-profile-image-div-custom {
+  position: relative;
+  right: 30px;
+  top: 15px;
+}
+
+.input-group.mb-3-customclass {
+  display: block;
+}
+.headcustom {
+	margin: auto;
+}
+.headcustomhhh {
+	margin: auto;
+}
+
+.cus-icon {
+  display: flex;
+}
+
+.form-control.input-group {
+  width: 100%;
+  margin: 8px;
+}
+
+.btn.btn-primary.savebutton {
+  text-shadow: 0px 0px white;
+  font-weight: 600;
+}
+
+.d-grid-custom {
+  text-align: center;
+  margin: 15px auto;
+}
+
+.form-control.input-group {
+  width: 100%;
+  margin: 8px;
+}
+.headcustom {
+	margin: auto;
+}
+.headcustomhhh {
+	margin: auto;
+}
+
+.input-group.mb-3-customclass {
+  display: block;
+}
+
+.cus-icon {
+  display: flex;
+}
+
+.col.client-profile-image-div-custom {
+  position: relative;
+  right: 30px;
+  top: 15px;
+}
+
+.card.mx-4-customcard {
+  width: 100%;
+  position: relative;
+  right: 0px;
+}
+
+.form-control.form-control-sm.custom-search-data-custom {
+  width: 100%;
+  margin: auto;
+}
+.maindiv-heading {
+	display: flex;
+}
+.head-Rating {
+	position: relative;
+	left: 100px;
+}
+.card-text.review-profilereview {
+	text-align: end;
+	margin: 9px;
+}
+.username-rating {
+	margin: 0;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  .mpromotionnext-custonm {
+    background-color: blue;
+    color: white;
+    text-shadow: 0px 0px white;
+    font-weight: 700;
+    float: right;
+  }
+  .username-rating {
+    margin: 0;
+  }
+  .card-text.review-profilereview {
+    text-align: end;
+    margin: 9px;
+  }
+  .maindiv-heading {
+    display: flex;
+  }
+  .head-Rating {
+    position: relative;
+    left: 100px;
+  }
+  .offerclass {
+    position: relative;
+    left: 18px;
+  }
+
+  .btn.btn-primary.cbuttonclass {
+    font-size: 9px;
+    margin: 0px auto;
+    color: aliceblue;
+    text-shadow: 1px 0px aliceblue;
+    font-weight: bold;
+    /* background: #d87032; */
+    border-radius: 27px;
+    position: relative;
+    right: 5px;
+    top: 3px;
+    width: 107px;
+    letter-spacing: 1px;
+    padding: 0px;
+    height: 27px;
+  }
+  .form-control.form-control-sm.custom-search-data-custom {
+    width: 100%;
+    margin: auto;
+  }
+
+  .cus-icon {
+    display: flex;
+  }
+
+  .input-group.mb-3-customclass {
+    display: block;
+  }
+  .headcustom {
+    margin: auto;
+  }
+  .headcustomhhh {
+    margin: auto;
+  }
+  .form-control.input-group {
+    width: 100%;
+    margin: 8px;
+  }
+
+  .btn.btn-primary.savebutton {
+    text-shadow: 0px 0px white;
+    font-weight: 600;
+    /* padding: ; */
+  }
+
+  .d-grid-custom {
+    text-align: center;
+    margin: 15px auto;
+  }
+
+  svg.nav-icon.wallet-icon {
+    width: 10%;
+  }
+
+  .btn.btn-primary.btn-sm.custom-button-reviewclass {
+    text-shadow: 0px 0px white;
+    font-weight: 600;
+    width: 70%;
+  }
+
+  button.wallet-button {
+    width: 100%;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    background-color: #ebedef;
+  }
+
+  .mpromotionnextdiv {
+    display: flex;
+    justify-content: center;
+  }
+
+  .mpromotionnext {
+    width: 50%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    background-color: #0d6efdb0;
+    border: antiquewhite;
+    color: azure;
+    font-size: larger;
+    font-weight: 600;
+  }
+
+  .card-title.discountheading {
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+  }
+
+
+  .branchpinsubmit {
+    justify-content: center;
+    display: flex;
+  }
+
+  .mb-3.branchinput {
+    padding: 10px;
+  }
+
+  .card-title.referal-link {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .referallogodiv {
+    justify-content: center;
+    display: flex;
+    padding: inherit;
+  }
+
+  .col-12.trancstiondiv {
+    font-size: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
+
+  .referalmessagelogodiv {
+    justify-content: center;
+    display: flex;
+    padding: inherit;
+  }
+
+  .form-control.referal-link {
+    width: 100%;
+    font-weight: bold;
+    border-radius: unset;
+  }
+
+  .referal-link-div {
+    display: flex;
+  }
+
+  .icon.icon-custom-size.referal-logo {
+    background-color: #4bd2ae;
+    padding: 5px;
+  }
+
+  .card-title.referl-text {
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  .merchentspromotion-logos {
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .card-title.payment-success-title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .card-img-top.Payment-success {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .payment-success-button-div {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .payment-success-details-div {
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  .rating-rave-div {
+    padding-top: 10px;
+    float: right;
+  }
+
+  .col-12.marchantspromotion {
+    padding: 5px;
+  }
+
+  .col-12.currentpromotion {
+    padding: 5px;
+  }
+
+  .wallet-heading {
+    padding: 5px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .card.mb-3.walletview {
+    background-color: #ebedef;
+  }
+
+  .wallettranctiontable {
+    padding: 1px;
+  }
+
+  .wallettranctiontable {
+    padding: 10px;
+    width: 100%;
+    font-size: 11px;
+  }
+
+  .filter-div-wallet {
+    width: fit-content;
+    float: right;
+    padding: 5px;
+  }
+
+  .sort-div-wallet {
+    width: fit-content;
+    float: right;
+    padding: 5px;
+  }
+
+  .col-12.wallet-show-div {
+    display: flex;
+    height: 80px;
+    background: #ebedef;
+    border-radius: 10px;
+  }
+
+  .col-12.marchantsreviewlist {
+    padding: 5px;
+  }
+
+  .col-12.paymentpindiv {
+    padding: 5px;
+  }
+
+  .col-12.refferal-popup {
+    display: flex;
+    padding: 5px;
+  }
+
+  .merchants-discount-table {
+    width: 20%;
+  }
+
+  .form-control.input-branchpin {
+    width: 15%;
+    margin: auto;
+    margin-top: auto;
+    margin-top: 2%;
+  }
+
+  .btn.btn-primary.save-classcustom {
+
+    text-shadow: 0px 0px white;
+    font-weight: 700;
+  }
+
+  .btn.btn-primary.addamount-class {
+    text-shadow: 0px 0px white;
+    position: relative;
+    bottom: 10px;
+    left: 40px;
+    font-weight: 600;
+    width: 75%;
+    padding: 0px 0px 3px 0px;
+  }
+
+  #amount-labelinput {
+    margin: 4px 36px;
+    width: 50%;
+  }
+
+  .client-count-profile-page-background-updateprofile {
+    background: aqua;
+    text-align: center;
+    position: relative;
+    top: 11px;
+    cursor: pointer;
+    padding: 10px;
+    right: 27px;
+    border-radius: 29px;
+  }
+
+  .name-span {
+    opacity: 0.5;
+  }
+
+  .label-amount {
+    padding: 0px inherit;
+    position: relative;
+    left: 27px;
+  }
+
+  .btn.btn-primary.custom-button {
+    text-shadow: 0px 0px white;
+    font-weight: 700;
+  }
+
+  .list-group-flush>.list-group-item {
+    border-width: 0 0 var(--cui-list-group-border-width);
+    border: unset;
+
+  }
+
+  .list-group.list-group-flush.body-part {
+    position: relative;
+    right: 21px;
+  margin: 30px 0px;
+
+  }
+
+  .input-group-text.user-icon {
+    width: 14%;
+    position: relative;
+    right: 50px;
+    top: 27px;
+    border-radius: 30px;
+    background: white;
+    border: unset;
+    text-shadow: 0px 0px white;
+    background-color: aliceblue;
+  }
+
+  .list-group-item.group-item-profile-page {
+    text-align: left;
+    padding: 0px;
+    margin: 0px 0px 0px 43px;
+  }
+
+
+  .col.body-item-div-item {
+    position: relative;
+    left: 36px;
+  }
+
+  .card-title.profile-name-client-heding {
+    text-align: center;
+    position: relative;
+    bottom: 46px;
+    font-weight: 600;
+  }
+
+  .list-group.list-group-flush.body-part {
+    text-align: center;
+  margin: 30px 0px;
+
+  }
+
+  .current-promo-profile-page {
+    text-align: right;
+    right: 103px;
+    position: relative;
+    bottom: 23px;
+  }
+
+  .card.card-main-sec {
+    padding: 15px;
+    text-shadow: 0px 0px black;
+    height: 600px;
+    box-sizing: unset;
+  }
+
+  .client-count-profile-page {
+    text-align: start;
+    position: relative;
+    margin: 10px auto;
+    left: 0px;
+  }
+
+  .align-items-center {
+    display: flex;
+  }
+
+  .dropdown-item.profile-decore a {
+    text-decoration: none;
+    color: black;
+
+  }
+
+  .common-customdiv-class {
+    display: inline-block;
+    width: 50%;
+  }
+
+  .card-text.proname {
+    text-align: center;
+  }
+
+  .btn.btn-primary.rating-save-btn-custom {
+    text-shadow: 0px 0px white;
+    font-weight: 600;
+  }
+
+  .col.client-profile-image-div-custom {
+    position: relative;
+    right: 30px;
+    top: 15px;
+  }
+
+
+  .card.mx-4-customcard {
+    width: 100%;
+    position: relative;
+    right: 0px;
+  }
+
+
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .mpromotionnext-custonm {
+    background-color: blue;
+    color: white;
+    text-shadow: 0px 0px white;
+    font-weight: 700;
+    float: right;
+  }
+  .username-rating {
+    margin: 0;
+  }
+  .card-text.review-profilereview {
+    text-align: end;
+    margin: 9px;
+  }
+  .maindiv-heading {
+    display: flex;
+  }
+  .head-Rating {
+    position: relative;
+    left: 100px;
+  }
+  .offerclass {
+    position: relative;
+    left: 18px;
+  }
+  .btn.btn-primary.cbuttonclass {
+    font-size: 9px;
+    margin: 0px auto;
+    color: aliceblue;
+    text-shadow: 1px 0px aliceblue;
+    font-weight: bold;
+    /* background: #d87032; */
+    border-radius: 27px;
+    position: relative;
+    right: 5px;
+    top: 3px;
+    width: 107px;
+    letter-spacing: 1px;
+    padding: 0px;
+    height: 27px;
+  }
+  .form-control.form-control-sm.custom-search-data-custom {
+    width: 100%;
+    margin: auto;
+  }
+
+  .card.mx-4-customcard {
+    width: 100%;
+    position: relative;
+    right: 22px;
+  }
+
+  .card.card-custom {
+    padding: 14px;
+    position: relative;
+    right: 20px;
+  }
+
+  .col.client-profile-image-div-custom {
+    /* margin: 0; */
+    position: relative;
+    right: 30px;
+    top: 15px;
+  }
+
+  .form-control.input-group {
+    width: 100%;
+    margin: 8px;
+  }
+  .headcustom {
+    margin: auto;
+  }
+  .headcustomhhh {
+    margin: auto;
+  }
+
+  .input-group.mb-3-customclass {
+    display: block;
+  }
+
+  .cus-icon {
+    display: flex;
+  }
+
+  .d-grid-custom {
+    text-align: center;
+    margin: 15px auto;
+  }
+
+  svg.nav-icon.wallet-icon {
+    width: 10%;
+  }
+
+  .btn.btn-primary.btn-sm.custom-button-reviewclass {
+    text-shadow: 0px 0px white;
+    font-weight: 600;
+    width: 70%;
+  }
+
+  button.wallet-button {
+    width: 100%;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    background-color: #ebedef;
+  }
+
+  .mpromotionnextdiv {
+    display: flex;
+    justify-content: center;
+  }
+
+  .mpromotionnext {
+    width: 50%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    background-color: #0d6efdb0;
+    border: antiquewhite;
+    color: azure;
+    font-size: larger;
+    font-weight: 600;
+  }
+
+  .card-title.discountheading {
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+  }
+
+  .branchpinsubmit {
+    justify-content: center;
+    display: flex;
+  }
+
+  .mb-3.branchinput {
+    padding: 10px;
+  }
+
+  .card-title.referal-link {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .referallogodiv {
+    justify-content: center;
+    display: flex;
+    padding: inherit;
+  }
+
+  .col-12.trancstiondiv {
+    font-size: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
+
+  .referalmessagelogodiv {
+    justify-content: center;
+    display: flex;
+    padding: inherit;
+  }
+
+  .form-control.referal-link {
+    width: 100%;
+    font-weight: bold;
+    border-radius: unset;
+  }
+
+  .referal-link-div {
+    display: flex;
+  }
+
+  .icon.icon-custom-size.referal-logo {
+    background-color: #4bd2ae;
+    padding: 5px;
+  }
+
+  .card-title.referl-text {
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  .merchentspromotion-logos {
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .card-title.payment-success-title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .card-img-top.Payment-success {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .payment-success-button-div {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .payment-success-details-div {
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  .rating-rave-div {
+    padding-top: 10px;
+    float: right;
+  }
+
+  .col-12.marchantspromotion {
+    padding: 5px;
+  }
+
+  .col-12.currentpromotion {
+    padding: 5px;
+  }
+
+  .btn.btn-primary.addamount-class {
+    text-shadow: 0px 0px white;
+    position: relative;
+    bottom: 10px;
+    left: 40px;
+    font-weight: 600;
+    width: 75%;
+    padding: 0px 0px 3px 0px;
+  }
+
+  #amount-labelinput {
+    margin: 4px 36px;
+    width: 50%;
+  }
+
+  .wallet-heading {
+    padding: 5px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .btn.btn-primary.save-classcustom {
+
+    text-shadow: 0px 0px white;
+    font-weight: 700;
+  }
+
+  .card.mb-3.walletview {
+    background-color: #ebedef;
+  }
+
+  .wallettranctiontable {
+    padding: 1px;
+  }
+
+  .wallettranctiontable {
+    padding: 10px;
+    width: 100%;
+    font-size: 11px;
+  }
+
+  .filter-div-wallet {
+    width: fit-content;
+    float: right;
+    padding: 5px;
+  }
+
+  .sort-div-wallet {
+    width: fit-content;
+    float: right;
+    padding: 5px;
+  }
+
+  .col-12.wallet-show-div {
+    display: flex;
+    height: 80px;
+    background: #ebedef;
+    border-radius: 10px;
+  }
+
+  .col-12.marchantsreviewlist {
+    padding: 5px;
+  }
+
+  .col-12.paymentpindiv {
+    padding: 5px;
+  }
+
+  .col-12.refferal-popup {
+    display: flex;
+    padding: 5px;
+  }
+
+  .merchants-discount-table {
+    width: 20%;
+  }
+
+  .form-control.input-branchpin {
+    width: 15%;
+    margin: auto;
+    margin-top: auto;
+    margin-top: 2%;
+  }
+
+
+  .client-count-profile-page-background-updateprofile {
+    background: aqua;
+    text-align: center;
+    position: relative;
+    top: 11px;
+    padding: 10px;
+    right: 27px;
+    border-radius: 29px;
+    cursor: pointer;
+  }
+
+  .list-group.list-group-flush.body-part {
+    position: relative;
+    right: 21px;
+  margin: 30px 0px;
+
+  }
+
+  .name-span {
+    opacity: 0.5;
+  }
+
+  .btn.btn-primary.custom-button {
+    text-shadow: 0px 0px white;
+    font-weight: 700;
+  }
+
+  .label-amount {
+    padding: 0px inherit;
+    position: relative;
+    left: 27px;
+  }
+
+  .list-group-flush>.list-group-item {
+    border-width: 0 0 var(--cui-list-group-border-width);
+    border: unset;
+  }
+
+  .input-group-text.user-icon {
+    width: 14%;
+    position: relative;
+    right: 50px;
+    top: 27px;
+    border-radius: 30px;
+    background: white;
+    border: unset;
+    text-shadow: 0px 0px white;
+    background-color: aliceblue;
+  }
+
+  .list-group-item.group-item-profile-page {
+    text-align: left;
+    padding: 0px;
+    margin: 0px 0px 0px 43px;
+  }
+
+
+  .col.body-item-div-item {
+    position: relative;
+    left: 36px;
+  }
+
+  .card-title.profile-name-client-heding {
+    text-align: center;
+    position: relative;
+    bottom: 46px;
+
+    font-weight: 600;
+  }
+
+  .list-group.list-group-flush.body-part {
+    text-align: center;
+  margin: 30px 0px;
+
+  }
+
+  .current-promo-profile-page {
+    text-align: right;
+    right: 103px;
+    position: relative;
+    bottom: 23px;
+  }
+
+  .card.card-main-sec {
+    padding: 15px;
+    text-shadow: 0px 0px black;
+    height: 600px;
+    box-sizing: unset;
+  }
+
+  .client-count-profile-page {
+    text-align: start;
+    position: relative;
+    margin: 10px auto;
+    left: 0px;
+  }
+
+  .align-items-center {
+    display: flex;
+  }
+
+  .dropdown-item.profile-decore a {
+    text-decoration: none;
+    color: black;
+
+  }
+
+  .common-customdiv-class {
+    display: inline-block;
+    width: 50%;
+  }
+
+  .card-text.proname {
+    text-align: center;
+  }
+
+  .btn.btn-primary.rating-save-btn-custom {
+    text-shadow: 0px 0px white;
+    font-weight: 600;
+  }
+
+  .btn.btn-primary.savebutton {
+    text-shadow: 0px 0px white;
+    font-weight: 600;
+  }
+
+  .col.client-profile-image-div-custom {
+    position: relative;
+    right: 30px;
+    top: 15px;
+  }
+
+  .card.mx-4-customcard {
+    width: 100%;
+    position: relative;
+    right: 0px;
+  }
+
+  .card.card-custom {
+    padding: 14px;
+    position: relative;
+    right: 20px;
+  }
+
+  .scan-camera {
+    margin-right: 1%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .mpromotionnext-custonm {
+    background-color: blue;
+    color: white;
+    text-shadow: 0px 0px white;
+    font-weight: 700;
+    float: right;
+  }
+  .username-rating {
+    margin: 0;
+  }
+  .card-text.review-profilereview {
+    text-align: end;
+    margin: 9px;
+  }
+  .head-Rating {
+    position: relative;
+    left: 100px;
+  }
+  .maindiv-heading {
+    display: flex;
+  }
+  .offerclass {
+    position: relative;
+    left: 18px;
+  }
+  .btn.btn-primary.cbuttonclass {
+    font-size: 9px;
+    margin: 0px auto;
+    color: aliceblue;
+    text-shadow: 1px 0px aliceblue;
+    font-weight: bold;
+    /* background: #d87032; */
+    border-radius: 27px;
+    position: relative;
+    right: 5px;
+    top: 3px;
+    width: 107px;
+    letter-spacing: 1px;
+    padding: 0px;
+    height: 27px;
+  }
+  .form-control.form-control-sm.custom-search-data-custom {
+    width: 100%;
+    margin: auto;
+  }
+
+  .col.client-profile-image-div-custom {
+    position: relative;
+    right: 30px;
+    top: 15px;
+  }
+
+  .form-control.input-group {
+    width: 100%;
+    margin: 8px;
+  }
+  .headcustom {
+    margin:auto;
+  }
+  .headcustomhhh {
+    margin: auto;
+  }
+
+  .input-group.mb-3-customclass {
+    display: block;
+  }
+
+  .cus-icon {
+    display: flex;
+  }
+
+  .btn.btn-primary.savebutton {
+    text-shadow: 0px 0px white;
+    font-weight: 600;
+  }
+
+  .d-grid-custom {
+    text-align: center;
+    margin: 15px auto;
+  }
+
+  svg.nav-icon.wallet-icon {
+    width: 10%;
+  }
+
+  .btn.btn-primary.btn-sm.custom-button-reviewclass {
+    text-shadow: 0px 0px white;
+    font-weight: 600;
+    width: 70%;
+  }
+
+  button.wallet-button {
+    width: 100%;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    background-color: #ebedef;
+  }
+
+  .mpromotionnextdiv {
+    display: flex;
+    justify-content: center;
+  }
+
+  .mpromotionnext {
+    width: 50%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    background-color: #0d6efdb0;
+    border: antiquewhite;
+    color: azure;
+    font-size: larger;
+    font-weight: 600;
+  }
+
+  .card-title.discountheading {
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+  }
+
+
+  .branchpinsubmit {
+    justify-content: center;
+    display: flex;
+  }
+
+  .mb-3.branchinput {
+    padding: 10px;
+  }
+
+  .card-title.referal-link {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .referallogodiv {
+    justify-content: center;
+    display: flex;
+    padding: inherit;
+  }
+
+  .col-12.trancstiondiv {
+    font-size: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
+
+  .referalmessagelogodiv {
+    justify-content: center;
+    display: flex;
+    padding: inherit;
+  }
+
+  .form-control.referal-link {
+    width: 100%;
+    font-weight: bold;
+    border-radius: unset;
+  }
+
+  .referal-link-div {
+    display: flex;
+  }
+
+  .icon.icon-custom-size.referal-logo {
+    background-color: #4bd2ae;
+    padding: 5px;
+  }
+
+  .card-title.referl-text {
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  .merchentspromotion-logos {
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .card-title.payment-success-title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .card-img-top.Payment-success {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .payment-success-button-div {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .payment-success-details-div {
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  .rating-rave-div {
+    padding-top: 10px;
+    float: right;
+  }
+
+  .col-12.marchantspromotion {
+    padding: 5px;
+  }
+
+  .col-12.currentpromotion {
+    padding: 5px;
+  }
+
+  .wallet-heading {
+    padding: 5px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .card.mb-3.walletview {
+    background-color: #ebedef;
+  }
+
+  .wallettranctiontable {
+    padding: 1px;
+  }
+
+  .wallettranctiontable {
+    padding: 10px;
+    width: 100%;
+    font-size: 11px;
+  }
+
+  .filter-div-wallet {
+    width: fit-content;
+    float: right;
+    padding: 5px;
+  }
+
+  .sort-div-wallet {
+    width: fit-content;
+    float: right;
+    padding: 5px;
+  }
+
+  .col-12.wallet-show-div {
+    display: flex;
+    height: 80px;
+    background: #ebedef;
+    border-radius: 10px;
+  }
+
+  .col-12.marchantsreviewlist {
+    padding: 5px;
+  }
+
+  .col-12.paymentpindiv {
+    padding: 5px;
+  }
+
+  .col-12.refferal-popup {
+    display: flex;
+    padding: 5px;
+  }
+
+  .merchants-discount-table {
+    width: 20%;
+  }
+
+  .form-control.input-branchpin {
+    width: 15%;
+    margin: auto;
+    margin-top: auto;
+    margin-top: 2%;
+  }
+
+  .label-amount {
+    padding: 0px inherit;
+    position: relative;
+    left: 27px;
+  }
+
+  .btn.btn-primary.custom-button {
+    text-shadow: 0px 0px white;
+    font-weight: 700;
+  }
+
+  .list-group.list-group-flush.body-part {
+    position: relative;
+    right: 21px;
+  margin: 30px 0px;
+
+  }
+
+  .client-count-profile-page-background-updateprofile {
+    background: aqua;
+    text-align: center;
+    position: relative;
+    top: 11px;
+    padding: 10px;
+    right: 27px;
+    cursor: pointer;
+    border-radius: 29px;
+  }
+
+  .btn.btn-primary.addamount-class {
+    text-shadow: 0px 0px white;
+    position: relative;
+    bottom: 10px;
+    left: 40px;
+    font-weight: 600;
+    width: 75%;
+    padding: 0px 0px 3px 0px;
+  }
+
+  #amount-labelinput {
+    margin: 4px 36px;
+    width: 50%;
+  }
+
+  .name-span {
+    opacity: 0.5;
+  }
+
+  .btn.btn-primary.save-classcustom {
+
+    text-shadow: 0px 0px white;
+    font-weight: 700;
+  }
+
+  .list-group-flush>.list-group-item {
+    border-width: 0 0 var(--cui-list-group-border-width);
+    border: unset;
+  }
+
+  .input-group-text.user-icon {
+    width: 14%;
+    position: relative;
+    right: 50px;
+    top: 27px;
+    border-radius: 30px;
+    background: white;
+    border: unset;
+    text-shadow: 0px 0px white;
+    background-color: aliceblue;
+  }
+
+  .list-group-item.group-item-profile-page {
+    text-align: left;
+    padding: 0px;
+    margin: 0px 0px 0px 43px;
+  }
+
+
+  .col.body-item-div-item {
+    position: relative;
+    left: 36px;
+  }
+
+  .card-title.profile-name-client-heding {
+    text-align: center;
+    position: relative;
+    bottom: 46px;
+    font-weight: 600;
+  }
+
+  .list-group.list-group-flush.body-part {
+    text-align: center;
+  margin: 30px 0px;
+
+  }
+
+  .current-promo-profile-page {
+    text-align: right;
+    right: 103px;
+    position: relative;
+    bottom: 23px;
+  }
+
+  .card.card-main-sec {
+    padding: 15px;
+    text-shadow: 0px 0px black;
+    height: 600px;
+    box-sizing: unset;
+
+  }
+
+  .client-count-profile-page {
+    text-align: start;
+    position: relative;
+    margin: 10px auto;
+    left: 0px;
+  }
+
+  .align-items-center {
+    display: flex;
+  }
+
+  .dropdown-item.profile-decore a {
+    text-decoration: none;
+    color: black;
+
+  }
+
+  .common-customdiv-class {
+    display: inline-block;
+    width: 50%;
+  }
+
+  .card-text.proname {
+    text-align: center;
+  }
+
+  .btn.btn-primary.rating-save-btn-custom {
+    text-shadow: 0px 0px white;
+    font-weight: 600;
+  }
+
+  .card.mx-4-customcard {
+    width: 100%;
+    position: relative;
+    right: 0px;
+  }
+
+  .card.card-custom {
+    padding: 14px;
+    position: relative;
+    right: 20px;
+  }
+
+  .scan-camera {
+    margin-right: 1%;
+  }
+}
+
+.scan-camera {
+  margin-right: 1%;
+}
+
+.show-error-login {
+  color: red;
+}
+/* Facebook color */
+.facebook-icon {
+  color: #1877f2; /* Facebook blue color */
+}
+
+/* Instagram color */
+.instagram-icon {
+  color: #e4405f; /* Instagram pink color */
+}
+
+/* TikTok color */
+.tiktok-icon {
+  color: #000000; /* TikTok black color */
+}
+
+/* YouTube color */
+.youtube-icon {
+  color: #ff0000; /* YouTube red color */
+}

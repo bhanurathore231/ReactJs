@@ -1,0 +1,320 @@
+.mb-3.create-merchant {
+    float: right;
+  }
+  .form-select.form-select-sm.sort-by {
+    width: auto;
+    margin: auto;
+  }
+  .btn.btn-primary.choose-but.date-filter {
+    height: 10%;
+  }
+  .col-6.d-flex.gap-2.mt-3.filter {
+    height: 10%;
+  } 
+  .merchentspromotion-logos {
+    max-width: 50px;
+    max-height: 50px;
+  }  
+  .col-12.merchant-profile-div {
+    display: flex;
+  } 
+  .card-title.profile-name {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .merchant-profile-image-div {
+  width: 150px; /* Adjust the width and height to your desired size */
+  height: 150px;
+  border-radius: 50%; /* This will create the circular shape */
+  overflow: hidden; /* Hide any part of the image outside the circle */
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  margin: auto;
+  }
+  .card-img-top.merchant-profile-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .list-group-item.group-item-profile-page {
+    border: unset;
+  }
+  .card-title.raitng\&reviewprofile {
+    padding: 15px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .col-12.showratingdiv {
+    padding: 15px;
+  }
+  .col-12.refferal-amount-save {
+    padding-top: 25px;
+    text-align: right;
+  }
+  .col-12.data-view {
+    padding: 25px;
+  }
+  .custom-search-data {
+    width: auto;
+    margin: auto;
+    margin-left: unset;
+  }
+  .modal-content{
+    text-align: center;
+  }
+  .btn.btn-primary.btn-sm.dropdown-toggle.showed-s {
+    padding: 7px 13px;
+    font-weight: 900;
+  }
+  .btn-group.sort-price {
+    margin: 0px 4px;
+  }
+
+  /**/
+  .form-group.mt-3-inputdate {
+    display: inline-block;
+    width: 48%;
+    margin: 0px 6px;
+  }
+  .btn-group.drop-city-state {
+    margin: 22px 33px 0px auto;
+    /* padding: 5px 5px 1px 28px; */
+    color: cadetblue;
+  }
+  .btn.btn-primary.dropdown-toggle {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+  } 
+  .form-group.mt-3.text-area {
+    margin: 22px 0px;
+  }
+  .form-group.mt-3-city-state {
+    display: inline-block;
+    width: 48%;
+    margin: 20px 6px;
+  }
+  .form-group.mt-3-pincode {
+    /* margin: ; */
+    position: relative;
+    bottom: 17px;
+  }
+  .btn.btn-primary.mt-5 {
+    position: relative;
+    bottom: 25px;
+  }
+  /**/
+  .description-code {
+    width: 50%;
+  }
+  .two-row-convert {
+    display: inline-block;
+    width: 50%;
+  }
+  .mt-3.mb-3.col-3-savebutton {
+    text-align: end;
+    position: relative;
+    right: 253px;
+  }
+/**/
+/* .card.text-white.bg-primary.py-5 {
+	margin: 93px 30px 0px;
+} */
+.card-body.sinup-class-two {
+	/* display: inline-block; */
+	width: 89%;
+	margin: 21px 18px;
+	padding: 0px 20px;
+}
+.div-sinup {
+	font-weight: bold;
+	position: relative;
+	top: 64px;
+	text-align: center;
+}
+.heading-sign-up {
+	margin: 17px 3px;
+	font-weight: bold;
+}
+.col-xl-6.col-lg-7.col-md-9.main-div-md-lg-xl {
+  flex: 0 0 auto;
+	width: 61%;
+	display: flex;
+	height: 550px;
+}
+.card.mx-4-custom-content-two {
+	width: 74%;
+}
+.btn.btn-primary.create-button-acc {
+	background-color: black;
+	color: aliceblue;
+	font-weight: bold;
+	margin: 0px auto;
+}
+.card.text-white.custom-content-two {
+	background-color: black;
+}
+.main-div-branchpin {
+	position: relative;
+	bottom: 34px;
+}
+.main-form-custom-class {
+	padding: 26px !important;
+}
+.input-group.mb-6-bpin {
+	position: relative;
+	bottom: 25px;
+}
+.btn.btn-primary.mt-3-registernow.active {
+	background-color: #514848;
+	border: black;
+	color: white;
+	font-weight: bold;
+}
+.card.text-white-black.py-5 {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+}
+.btn.btn-primary.px-4-loginprim {
+	/* block-size: ; */
+	background: black;
+	color: aliceblue;
+	font-weight: bold;
+}
+.btn.btn-link.px-0-textcolor {
+	color: black;
+}
+.pr-st-date {
+	position: relative;
+	right: 5px;
+  bottom: 5px;
+}
+#promotion-startdate {
+	/* margin: 0px auto; */
+	position: relative;
+	right: 6px;
+}
+.pr-ed-date {
+	margin: 0px 6px;
+	position: relative;
+  bottom: 5px;
+}
+#promotion-enddate {
+	position: relative;
+	left: 5px;
+}
+.citylabel-class {
+	position: relative;
+	right: 5px;
+	bottom: 3px;
+}
+.form-select.form-select-xs.mb-3-cityclass {
+	position: relative;
+	right: 5px;
+}
+.statelabel-class {
+	/* margin: 0px 5px; */
+	position: relative;
+	left: 5px;
+	bottom: 3px;
+}
+.form-select.form-select-xs.mb-3-stateclass {
+	margin: 0px 5px;
+}
+.btn.btn-primary.px-4-loginprim-sentpaas {
+	background: black;
+	position: relative;
+	left: 190px;
+	color: aliceblue;
+	font-weight: bold;
+	top: 27px;
+}
+.forgotpaas {
+	text-align: center;
+}
+.col-md-8.cardbody-class {
+	width: 48%;
+}
+.btn-group.name-dropdown {
+	width: 18%;
+}
+.btn.btn-primary.btn-sm.dropdown-toggle.nameclass {
+	font-weight: 900;
+}
+.btn.btn-primary.choose-but {
+	background-color: blue;
+	color: white;
+	font-weight: bold;
+}
+.btn.btn-primary.btn-sm.dropdown-toggle.showed-dataclass {
+	font-weight: 900;
+}
+.btn.btn-primary.btn-sm.seachbut-class {
+	font-weight: 900;
+	background-color: blue;
+	text-shadow: 0px 0px white;
+}
+.btn-group.name-dropdown-mdis {
+	position: relative;
+	left: 432px;
+  top: 5px;
+	width: 13%;
+}
+.btn.btn-primary.btn-sm.dropdown-toggle.nameclass-mangedis {
+  text-shadow: 0px 0px white;
+	font-weight: 900;
+}
+.btn.btn-primary.choose-but-sort {
+	width: 18%;
+	background-color: blue;
+	font-weight: bold;
+	text-shadow: 0px 0px white;
+}
+.modal-body.modalbody-content {
+	padding: 29px 85px;
+}
+.divradio-class {
+	margin: 13px auto;
+}
+.btn.btn-primary.mt-5-primsave {
+  background-color: blue;
+	font-weight: bold;
+	text-shadow: 0px 0px white;
+}
+.btn.btn-primary.btn-sm.dropdown-toggle.showed-s {
+	padding: 7px 13px;
+	font-weight: 900;
+}
+.btn-group.sort-price {
+	margin: 0px 4px;
+}
+.show-error-login {
+  color: red;
+}
+.card-img-top.promotion-image {
+  width: 100px;
+  height: 100px;
+  display: inline;
+}
+/* Facebook color */
+.facebook-icon {
+  color: #1877f2; /* Facebook blue color */
+}
+
+/* Instagram color */
+.instagram-icon {
+  color: #e4405f; /* Instagram pink color */
+}
+
+/* TikTok color */
+.tiktok-icon {
+  color: #000000; /* TikTok black color */
+}
+
+/* YouTube color */
+.youtube-icon {
+  color: #ff0000; /* YouTube red color */
+}

@@ -1,0 +1,16 @@
+.my-datatable {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.my-datatable .rdt_TableHead {
+  background-color: #f0f0f0;
+}
+
+.my-datatable .rdt_TableCell {
+  padding: 8px;
+}
+
+.my-datatable .rdt_Pagination {
+  margin-top: 10px;
+}
